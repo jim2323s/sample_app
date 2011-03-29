@@ -6,19 +6,20 @@ gem 'rails', '3.0.4'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 # gem 'sqlite3-ruby', '1.2.5', :group => :development
+
   group :production, :staging do
     gem "pg", "0.9.0"
   end
   
   group :development do
     gem "sqlite3-ruby", :require => "sqlite3"
-	gem 'rspec-rails', '2.0.1'
+		gem 'rspec-rails', '2.0.1'
   end
   
   group :test do
-	gem "sqlite3-ruby", :require => "sqlite3"
-	gem 'rspec', '2.0.1'
-	gem 'webrat', '0.7.1'
+		gem "sqlite3-ruby", :require => "sqlite3"
+		gem 'rspec', '2.0.1'
+		gem 'webrat', '0.7.1'
   end
 
 # Use unicorn as the web server
