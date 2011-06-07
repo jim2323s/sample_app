@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.4'
+gem 'gravatar_image_tag'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -22,6 +23,7 @@ gem 'rails', '3.0.4'
 		gem 'rspec', '2.0.1'
 		gem 'webrat', '0.7.1'
 		gem 'win32console'
+		gem 'factory_girl_rails'
   end
 
 # Use unicorn as the web server
