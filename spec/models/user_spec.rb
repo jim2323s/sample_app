@@ -121,8 +121,7 @@ describe User do
 				matching_user.should == @user
 			end
 		end
-		
-	end
+  end
 	
 	#pending "add some examples to (or delete) #{__FILE__}"
 end
