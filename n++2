@@ -1,0 +1,33 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="25">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="664" startPos="441" endPos="441" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\controllers\sessions_controller.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="624" startPos="214" endPos="214" selMode="0" lang="Javascript" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\views\layouts\application.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="616" startPos="239" endPos="239" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\factories.rb" />
+            <File firstVisibleLine="139" xOffset="0" scrollWidth="280" startPos="2458" endPos="2458" selMode="0" lang="CSS" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\public\stylesheets\custom.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="640" startPos="111" endPos="111" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\config\routes.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="472" startPos="392" endPos="392" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\views\sessions\new.html.erb" />
+            <File firstVisibleLine="7" xOffset="0" scrollWidth="616" startPos="387" endPos="387" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\helpers\sessions_helper.rb" />
+            <File firstVisibleLine="20" xOffset="0" scrollWidth="776" startPos="1339" endPos="1339" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\models\user.rb" />
+            <File firstVisibleLine="205" xOffset="0" scrollWidth="776" startPos="5674" endPos="5674" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\controllers\users_controller_spec.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="608" startPos="580" endPos="580" selMode="0" lang="PHP" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\Gemfile" />
+            <File firstVisibleLine="37" xOffset="0" scrollWidth="584" startPos="1646" endPos="1646" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\controllers\sessions_controller_spec.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="672" startPos="0" endPos="0" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\controllers\pages_controller_spec.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="528" startPos="324" endPos="324" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\helpers\sessions_helper_spec.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="464" startPos="25" endPos="126" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\views\sessions\new.html.erb_spec.rb" />
+            <File firstVisibleLine="5" xOffset="0" scrollWidth="632" startPos="1166" endPos="1166" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\spec_helper.rb" />
+            <File firstVisibleLine="1" xOffset="0" scrollWidth="448" startPos="629" endPos="629" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\controllers\users_controller.rb" />
+            <File firstVisibleLine="38" xOffset="0" scrollWidth="720" startPos="1533" endPos="1533" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\requests\layout_links_spec.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="552" startPos="525" endPos="525" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\views\layouts\_header.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="584" startPos="0" endPos="0" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\helpers\application_helper.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="664" startPos="3582" endPos="3582" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\models\user_spec.rb" />
+            <File firstVisibleLine="31" xOffset="0" scrollWidth="664" startPos="1428" endPos="1428" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\requests\users_spec.rb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="504" startPos="65" endPos="65" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\views\users\edit.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="784" startPos="86" endPos="86" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\views\shared\_error_messages.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="520" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\views\users\show.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="504" startPos="130" endPos="130" selMode="0" lang="HTML" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\app\views\users\new.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="552" startPos="625" endPos="625" selMode="0" lang="Ruby" encoding="-1" filename="C:\Users\Jim\Documents\programming\rails_projects\sample_app\spec\requests\friendly_forwardings_spec.rb" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
