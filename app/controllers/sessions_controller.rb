@@ -13,7 +13,7 @@ class SessionsController < ApplicationController
 		else
 			#sign in and redirect to show page
 			sign_in user
-			redirect_back_or user
+			redirect_back_or root_path
 		end
 	end
 	

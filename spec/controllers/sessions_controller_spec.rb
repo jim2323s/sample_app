@@ -52,9 +52,11 @@ describe SessionsController do
 				controller.should be_signed_in
 			end
 			
-			it "should redirect to the user show page" do
+			it "should redirect to the user home page" do
 				post :create, :session => @attr
-				response.should redirect_to(user_path(@user))
+				#response.should render_template('pages/home')
+        response.should redirect_to(root_path)
+        #response.should have_selector("table", :summary => "For signed-in users")
 			end
 		end
 	end
